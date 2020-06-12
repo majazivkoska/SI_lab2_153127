@@ -4,6 +4,8 @@
 Ја добив групата на код 1
 
 ## Control Flow Graph
+![si02](https://user-images.githubusercontent.com/61714514/84549236-c9308d00-ad07-11ea-84a0-ab551d27f1a1.png)
+
 
 
 ## Цикломатска комплексност
